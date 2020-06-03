@@ -26,6 +26,7 @@
     "route-cache": "0.4.3",
     "serve-favicon": "^2.4.5",
     "vue": "^2.5.22",
+    "vue-2-breadcrumbs": "^0.7.2",
     "vue-router": "^3.0.1",
     "vue-server-renderer": "^2.5.22",
     "vuex": "^3.0.1",
